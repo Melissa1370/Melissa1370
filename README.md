@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Melissa1370
+- 👋 Hi, I’m Melissa
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning ML in Python
 - 📫 How to reach me m.shahgholizadeh@gmail.com
